@@ -1,0 +1,26 @@
+.body{
+    background-color:red;
+}
+
+.app-title{
+    text-align:center;
+}
+
+.search-bar{
+    display: block;
+    margin:10px auto;
+    width:50%;
+    padding:10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.temprature-text{
+    text-align: center;
+    font-size: 30px;
+}
+
+.message-text{
+    text-align:center;
+    
+}
